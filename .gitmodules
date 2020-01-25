@@ -1,0 +1,3 @@
+[submodule "auth"]
+	path = auth
+	url = git@me.github.com:SquashConsulting/auth.git
