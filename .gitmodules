@@ -4,3 +4,6 @@
 [submodule "interactions"]
 	path = interactions
 	url = git@github.com:rasjonell/interactions.git
+[submodule "shared"]
+	path = shared
+	url = git@github.com:SquashConsulting/shared.git
